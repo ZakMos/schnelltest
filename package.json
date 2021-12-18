@@ -1,0 +1,22 @@
+{
+  "name": "schnelltest",
+  "version": "1.0.0",
+  "description": "Schnelltest Berlin Cov-19",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ZakMos/schnelltest.git"
+  },
+  "keywords": [
+    "scnelltest"
+  ],
+  "author": "Zakaria Moslim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakMos/schnelltest/issues"
+  },
+  "homepage": "https://github.com/ZakMos/schnelltest#readme"
+}
